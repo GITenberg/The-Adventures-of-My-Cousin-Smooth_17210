@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '7225'
     url: http://www.gutenberg.org/2009/agents/7225
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17210#The-Adventures-of-My-Cousin-Smooth
 gutenberg_issued: '2005-12-03'
 gutenberg_type: Text
 identifiers:
