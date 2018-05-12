@@ -1,0 +1,25 @@
+_repo: The-Adventures-of-My-Cousin-Smooth_17210
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Templeton, Timothy
+    gutenberg_agent_id: '7225'
+    url: http://www.gutenberg.org/2009/agents/7225
+description: ''
+gutenberg_issued: '2005-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17210'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government -- 1853-1857'
+- !lcc 'PS'
+- !lcsh 'Pierce, Franklin, 1804-1869 -- Humor'
+title: The Adventures of My Cousin Smooth
+url: http://www.gutenberg.org/ebooks/17210
